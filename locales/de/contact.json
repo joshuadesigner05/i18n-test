@@ -1,0 +1,67 @@
+{
+    "contactHero": "KONTAKTIEREN SIE MICH FÜR IHRE VORSTELLUNGEN!",
+    "ContactLeft": {
+        "title-1": "Web Entwicklung",
+        "title-2": "Aktualisieren Sie auf Next.JS",
+        "title-3": "Übersetzung",
+        "title-4": "Markenidentifikation"
+    },
+    "ContactR1": {
+        "title": "DEINE WEBSITE",
+        "desc": "Holen Sie sich eine großartige Website für sich selbst oder für Ihr Unternehmen.",
+        "list": {
+            "li-1": "Moderne Schnittstelle",
+            "li-2": "Responsives Design",
+            "li-3": "SEO Freundlich",
+            "li-4": "Beeindruckendes Seitendesign",
+            "li-5": "UI/UX Kompatibel",
+            "li-6": "Mit Next.JS"
+        }
+    },
+    "ContactR2": {
+        "title": "UPGRADE DEINE WEBSITE",
+        "desc": "Aktualisieren Sie Ihre Website auf Next JS mit einer modernen Benutzeroberfläche!",
+        "list": {
+            "li-1": "Moderne Schnittstelle",
+            "li-2": "Responsives Design",
+            "li-3": "SEO Freundlich",
+            "li-4": "Beeindruckendes Seitendesign",
+            "li-5": "UI/UX Kompatibel",
+            "li-6": "Mit Next.JS"
+        }
+    },
+    "ContactR3": {
+        "title": "DIE WELT BERÜHREN",
+        "desc": "Ergreifen Sie die Gelegenheit, Ihr Geschäft zu erweitern, indem Sie mit verschiedenen Völkern der Welt kommunizieren.",
+        "list": {
+            "li-1": "Englisch",
+            "li-2": "Türkisch",
+            "li-3": "Deutsch",
+            "li-4": "Arabisch",
+            "li-5": "Andere Sprachen können hinzugefügt werden",
+            "li-6": "Für die von mir vorerst codierten Seiten"
+        }
+    },
+    "ContactR4": {
+        "title": "BEEINDRUCKENDES DESIGN",
+        "desc": "Sorgen Sie für ein gutes Image in Ihrem Geschäftsleben.",
+        "list": {
+            "li-1": "Ein Elegantes Design",
+            "li-2": "Beidseitig",
+            "li-3": "Druckfertige Datei",
+            "li-4": "300 DPI CMYK Farbe",
+            "li-5": "PSD Mockup",
+            "li-6": "Editierbare Quelldatei"
+        }
+    },
+    "button": "Hol Es Dir Jetzt!",
+    "button-2": "Demnächst!",
+    "ContactOther": "Andere Kontaktmöglichkeiten",
+    "ContactOff" : {
+        "mainbox": "Erhalten Sie 10 % Rabatt auf Fiverr!",
+        "title": "Erhalten Sie 10 % Rabatt auf Fiverr!",
+        "desc": "Verpassen Sie nicht den 10% Rabatt, den Fiverr Neukunden über Verkäufer anbietet. Kunden, die über den Einladungslink neue Mitglieder bei Fiverr sind, erhalten 10 % Rabatt auf ihre erste Bestellung. Beeilen Sie sich und verpassen Sie diese Gelegenheit nicht!*",
+        "button": "Erhalten Sie 10 % Rabatt",
+        "terms": "*Bitte gehen Sie auf den Link, um die Teilnahmebedingungen zu lesen."
+    }
+}

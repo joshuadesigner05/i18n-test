@@ -1,0 +1,12 @@
+{
+    "locales": ["en", "tr", "de", "ar"],
+    "defaultLocale": "en",
+    "pages": {
+      "*": ["common", "layout"],
+      "/": ["home"],
+      "/works": ["works"],
+      "/contact": ["contact"],
+      "/header": ["header"],
+      "/footer": ["footer"]
+    }
+  }

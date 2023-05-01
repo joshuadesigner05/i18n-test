@@ -1,0 +1,29 @@
+{
+    "homeHero": {
+        "hero-1": {
+            "h1": "Wunderschöne",
+            "span": "Webseiten"            
+        },
+        "hero-2": {
+            "h1": "Berühre",
+            "span": "Die Welt"            
+        },
+        "hero-3": {
+            "h1": "Abenteuer",
+            "span": "Des Geschäfts"            
+        },
+        "button": "Kontaktiere Mich!"
+    },
+    "homeSkills":{
+        "skillsFav":{
+            "title": "MEINE LIEBLINGS-ENTWICKLUNGSTOOLS"
+        },
+        "skillsDev":{
+            "title": "ENTWICKLUNGSTOOLS"
+        },
+        "skillsDesign":{
+            "title": "GESTALTUNGSWERKZEUGE"
+        },
+        "button": "Lern Mehr"
+    }
+}

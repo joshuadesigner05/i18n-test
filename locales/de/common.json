@@ -1,0 +1,33 @@
+{
+    "siteMap": {
+        "home": "Startseite",
+        "works": "Werke",
+        "faq": "HGF",
+        "contact": "Kontakt"
+    },
+    "siteLang": "de",
+
+    "homeHead": "JoshuaTR",
+    "worksHead": "Werke | JoshuaTR",
+    "contactHead": "Kontakt | JoshuaTR",
+
+    "worksHero": "ERFAHREN SIE MEINE ARBEITEN!",
+    "WorksC1": {
+        "title": "Entwicklung",
+        "desc": "Wenn Sie Ihr Unternehmen oder sich selbst weltweit online bewerben möchten, brauchen Sie eine großartige Website. Mit dem UI / UX-fokussierten Design erhalten Ihre Besucher eine gute Effizienz von der Website und sind mit Ihrer Website zufrieden. Dank des responsiven Designs bietet Ihre Seite auf jedem Endgerät ein hervorragendes Anzeige- und Nutzungserlebnis. Sie können auch eine großartige Website haben. Kontaktieren Sie mich jetzt und lassen Sie uns Ihre Traumwebsite Wirklichkeit werden."
+    },
+    "WorksC2": {
+        "title": "Übersetzung",
+        "desc": "Wenn Sie Ihr Geschäft weltweit ausbauen und sich mit anderen Kulturen verbinden möchten, benötigen Sie eine mehrsprachige Website. Eine Website zu haben, die jeder in seiner eigenen Sprache verstehen und mit der sich jeder wohlfühlen kann, hilft Ihren Kunden, Ihrer Website zu vertrauen, und kann Ihrem Unternehmen helfen, zu wachsen. Ganz gleich, ob Sie ein großes Unternehmen oder ein kleines privates Unternehmen sind, Ihre Website muss in einer Sprache verfasst sein, die jeder verstehen kann. Genau dafür bin ich hier und kann Ihre Seite mehrsprachig gestalten. Kontaktieren Sie mich jetzt und nutzen Sie die Chancen auf der ganzen Welt!"
+    },
+    "WorksC3": {
+        "title": "Markenidentifikation",
+        "desc": "In der heutigen Zeit sind Visitenkarten ein wichtiges Instrument geworden, um das Image von Einzelpersonen oder Unternehmen widerzuspiegeln und einen bleibenden Eindruck zu hinterlassen. Visitenkarten sind der einfachste Weg, sich oder Ihr Unternehmen anderen vorzustellen und Ihre Kontaktinformationen zu teilen. Hier biete ich Ihnen tolle Visitenkarten-Designs an. Diese Designs sollen Sie oder Ihr Unternehmen am besten widerspiegeln. Nehmen Sie jetzt Kontakt auf und stellen Sie sich oder Ihr Unternehmen bestmöglich vor. Und auf diese Weise haben Sie Ihre Kontaktdaten immer zur Hand und Ihre Kunden werden sich immer an Sie erinnern..."
+    },
+    
+    "button": "Jetzt Zugreifen!",
+
+    "footerFooter": "Selbstverständlich ist diese seite von",
+    "footerFooter2": ""
+
+}

@@ -1,0 +1,29 @@
+{
+    "homeHero": {
+        "hero-1": {
+            "h1": "Harika",
+            "span": "Websiteler"            
+        },
+        "hero-2": {
+            "h1": "Dünyaya",
+            "span": "Ulaşın"            
+        },
+        "hero-3": {
+            "h1": "Dünyaya",
+            "span": "Ulaşın"            
+        },
+        "button": "İletişime Geçin!"
+    },
+    "homeSkills":{
+        "skillsFav":{
+            "title": "FAVORİ YAZILIM ARAÇLARIM"
+        },
+        "skillsDev":{
+            "title": "YAZILIM ARAÇLARIM"
+        },
+        "skillsDesign":{
+            "title": "TASARIM ARAÇLARIM"
+        },
+        "button": "Daha Fazla"
+    }
+}

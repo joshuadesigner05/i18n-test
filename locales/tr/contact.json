@@ -1,0 +1,67 @@
+{
+    "contactHero": "BENİMLE İLETİŞİME GEÇİN!",
+    "ContactLeft": {
+        "title-1": "Web Geliştirme",
+        "title-2": "Next.JS'e Yükseltme",
+        "title-3": "Çeviri",
+        "title-4": "Kurumsal Kimlik"
+    },
+    "ContactR1": {
+        "title": "SİZİN WEBSİTENİZ",
+        "desc": "Kendiniz veya işletmeniz için harika bir site alın.",
+        "list": {
+            "li-1": "Modern Arayüz",
+            "li-2": "Responsive Tasarım",
+            "li-3": "SEO Dostu",
+            "li-4": "Etkileyici Sayfa Tasarımı",
+            "li-5": "UI/UX Uyumluluğu",
+            "li-6": "Next.JS İle"
+        }
+    },
+    "ContactR2": {
+        "title": "WEBSİTENİZİ YÜKSELTİN",
+        "desc": "Modern bir arayüzle sitenizi Next JS'ye yükseltin!",
+        "list": {
+            "li-1": "Modern Arayüz",
+            "li-2": "Responsive Tasarım",
+            "li-3": "SEO Dostu",
+            "li-4": "Etkileyici Sayfa Tasarımı",
+            "li-5": "UI/UX Uyumluluğu",
+            "li-6": "Next.JS İle"
+        }
+    },
+    "ContactR3": {
+        "title": "DÜNYAYA ULAŞIN",
+        "desc": "Dünyanın çeşitli yerlerindeki insanlarla iletişim kurarak işinizi büyütme fırsatını yakalayın.",
+        "list": {
+            "li-1": "İngilizce",
+            "li-2": "Türkçe",
+            "li-3": "Almanca",
+            "li-4": "Arapça",
+            "li-5": "Diğer diller de eklenebilir",
+            "li-6": "Şimdilik sadece kendi kodladığım siteler için"
+        }
+    },
+    "ContactR4": {
+        "title": "ETKİLEYİCİ TASARIM",
+        "desc": "İş hayatınızda iyi bir imaj elde edin.",
+        "list": {
+            "li-1": "Elit Bir Tasarım",
+            "li-2": "Çift Taraflı",
+            "li-3": "Basıma Hazır Halde",
+            "li-4": "300 DPI CMYK Renkli",
+            "li-5": "PSD Mockup",
+            "li-6": "Düzenlenebilir Kaynak Dosyası"
+        }
+    },
+    "button": "Hemen Alın!",
+    "button-2": "Yakında Gelecek!",
+    "ContactOther": "Diğer İletişim Seçenekleri",
+    "ContactOff" : {
+        "mainbox": "Fiverr'dan %10 İndirim Kazanın!",
+        "title": "Fiverr'dan %10 İndirim Kazanın!",
+        "desc": "Fiverr'ın satıcılar aracılığıyla yeni müşterilerine sunduğu %10 indirimi kaçırmayın. Davet linki ile Fiverr'a yeni üye olan müşterilere, ilk siparişlerinde %10 indirim uygulanmaktadır. Acele edin ve bu fırsatı kaçırmayın!*",
+        "button": "10% İndirim Alın",
+        "terms": "*Katılım şartlarını okumak için lütfen linke gidiniz."
+    }
+}
