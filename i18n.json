@@ -1,12 +1,7 @@
 {
-    "locales": ["en", "tr", "de", "ar"],
+    "locales": ["en", "tr"],
     "defaultLocale": "en",
     "pages": {
-      "*": ["common", "layout"],
-      "/": ["home"],
-      "/works": ["works"],
-      "/contact": ["contact"],
-      "/header": ["header"],
-      "/footer": ["footer"]
+      "*": ["common", "layout"]
     }
   }

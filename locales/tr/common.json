@@ -1,31 +1,70 @@
 {
-    "siteMap": {
-        "home": "Anasayfa",
-        "works": "Çalışmalarım",
-        "faq": "SSS",
-        "contact": "İletişim"
+  "test": [
+    {
+      "name": "Bla Bla in Turkish",
+      "desc": "Very long bla bla text in Turkish."
     },
-    "siteLang": "tr",
-    "homeHead": "JoshuaTR",
-    "worksHead": "Çalışmalarım | JoshuaTR",
-    "contactHead": "İletişim | JoshuaTR",
+    {
+      "name": "Bla Bla in Turkish",
+      "desc": "Very long bla bla text in Turkish."
+    },
+    {
+      "name": "Bla Bla in Turkish",
+      "desc": "Very long bla bla text in Turkish."
+    },
+    {
+      "name": "Bla Bla in Turkish",
+      "desc": "Very long bla bla text in Turkish."
+    },
+    {
+      "name": "Bla Bla in Turkish",
+      "desc": "Very long bla bla text in Turkish."
+    },
+    {
+      "name": "Bla Bla in Turkish",
+      "desc": "Very long bla bla text in Turkish."
+    }
+  ],
+  "test-2": {
+    "subTest-1": {
+      "name": "Bla Bla in Turkish",
+      "desc": "Very long bla bla text in Turkish."
+    },
+    "subTest-2": {
+      "name": "Bla Bla in Turkish",
+      "desc": "Very long bla bla text in Turkish."
+    },
+    "subTest-3": {
+      "name": "Bla Bla in Turkish",
+      "desc": "Very long bla bla text in Turkish."
+    },
+    "subTest-4": {
+      "name": "Bla Bla in Turkish",
+      "desc": "Very long bla bla text in Turkish."
+    },
+    "subTest-5": {
+      "name": "Bla Bla in Turkish",
+      "desc": "Very long bla bla text in Turkish."
+    },
+    "subTest-6": {
+      "name": "Bla Bla in Turkish",
+      "desc": "Very long bla bla text in Turkish."
+    }
+  },
 
-    "worksHero": "ÇALIŞMALARIM HAKKINDA BİLGİ ALIN!",
-    "WorksC1": {
-        "title": "Yazılım",
-        "desc": "İşinizi veya kendinizi online olarak dünyaya tanıtmak istiyorsanız, mükemmel bir web sitesine ihtiyacınız var.  UI/UX odaklı tasarım ile ziyaretçilerinizin siteden iyi bir verim alması ve sitenizden memnun kalması sağlanır. Responsive tasarım sayesinde, siteniz her cihazda mükemmel bir görünüm ve kullanım deneyimi sunar. Siz de harika bir web sitesine sahip olabilirsiniz. Hemen bana ulaşın ve hayalini kurduğunuz web sitesini gerçeğe dönüştürelim."
-    },
-    "WorksC2": {
-        "title": "Çeviri",
-        "desc": "Dünya çapında işinizi büyütmek ve diğer kültürlerle bağlantı kurmak istiyorsanız, çok dilli bir web sitesine sahip olmanız gerekmektedir. Herkesin kendi dili vasıtasıyla anlayabildiği ve kendini rahat hissettiği bir web sitesine ulaşması, müşterilerinizin sitenize güven duymasını ve işinizin büyümesini yardımcı olur. İster büyük bir işletme olun, ister küçük bir özel şirket, websitenizin dili herkesin anlayabileceği bir şekilde olması gerekir.  İşte tam da bunun için ben buradayım ve sitenizi çok dilli bir hale getirebilirim. Hemen benimle iletişime geçin ve dünyadaki fırsatları yakalayın!"
-    },
-    "WorksC3": {
-        "title": "Kurumsal Kimlik",
-        "desc": "Günümüz dünyasında kartvizitler, kişilerin ya da işletmelerin imajını yansıtmak ve kalıcı bir izlenim bırakmak için önemli bir araç haline gelmiştir. Kartvizitler, kendinizi veya işletmenizi başkalarına tanıtmanın ve iletişim bilgilerinizi paylaşmanın en kolay yoludur. İşte ben de tam olarak size harika kartvizit tasarımları sunmak için buradayım. Bu tasarımlar sizi veya işletmenizi en iyi şekilde yansıtacak şekilde tasarlanır. Hemen iletişime geçin ve kendinizi veya işletmenizi en iyi şekilde tanıtın. Ve bu sayede iletişim bilgileriniz her zaman elinizin altında olacak ve müşterileriniz sizi her zaman hatırlanacak..."
-    },
-
-    "button": "Hemen Alın!",
-
-    "footerFooter": "Tabii ki de bu site",
-    "footerFooter2": "tarafından yapıldı."
+  "common": {
+    "testGPT": {
+      "title": "Türkçe",
+      "list": [
+        {
+          "title": "Başlık 1",
+          "subtitle": "Alt Başlık 1"
+        },
+        {
+          "title": "Başlık 2",
+          "subtitle": "Alt Başlık 2"
+        }
+      ]
+    }
+  }
 }

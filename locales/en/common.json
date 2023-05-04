@@ -1,33 +1,70 @@
 {
-    "siteMap": {
-        "home": "Home",
-        "works": "Works",
-        "faq": "FAQ",
-        "contact": "Contact"
+  "test": [
+    {
+      "name": "Bla Bla in English",
+      "desc": "Very long bla bla text in English."
     },
-    "siteLang": "en",
-
-    "homeHead": "JoshuaTR",
-    "worksHead": "Works | JoshuaTR",
-    "contactHead": "Contact | JoshuaTR",
-
-    "worksHero": "EXPLORE MY WORKS!",
-    "WorksC1": {
-        "title": "Development",
-        "desc": "If you want to promote your business or yourself online to the world, you need a great website. With the UI / UX-focused design, your visitors get a good efficiency from the site and are satisfied with your site. Thanks to the responsive design, your site offers an excellent view and usage experience on every device. You can have a great website, too. Contact me now and let's make your dream website a reality."
+    {
+      "name": "Bla Bla in English",
+      "desc": "Very long bla bla text in English."
     },
-    "WorksC2": {
-        "title": "Translation",
-        "desc": "If you want to grow your business worldwide and connect with other cultures, you need a multilingual website. Having a website that everyone can understand and feel comfortable with in their own language helps your customers to trust your site and can help your business grow. Whether you're a large business or a small private company, your website needs to be in language that anyone can understand. That's exactly why I'm here and I can make your site multilingual. Contact me now and take advantage of the opportunities around the world!"
+    {
+      "name": "Bla Bla in English",
+      "desc": "Very long bla bla text in English."
     },
-    "WorksC3": {
-        "title": "Brand Identification",
-        "desc": "In today's world, business cards have become an important tool to reflect the image of individuals or businesses and to leave a lasting impression. Business cards are the easiest way to introduce yourself or your business to others and share your contact information. Here I am to offer you great business card designs. These designs are designed to best reflect you or your business. Get in touch now and introduce yourself or your business in the best possible way. And in this way, your contact information will always be at hand and your customers will always remember you..."
+    {
+      "name": "Bla Bla in English",
+      "desc": "Very long bla bla text in English."
     },
-    
-    "button": "Get Now!",
+    {
+      "name": "Bla Bla in English",
+      "desc": "Very long bla bla text in English."
+    },
+    {
+      "name": "Bla Bla in English",
+      "desc": "Very long bla bla text in English."
+    }
+  ],
+  "test-2": {
+    "subTest-1": {
+      "name": "Bla Bla in English",
+      "desc": "Very long bla bla text in English."
+    },
+    "subTest-2": {
+      "name": "Bla Bla in English",
+      "desc": "Very long bla bla text in English."
+    },
+    "subTest-3": {
+      "name": "Bla Bla in English",
+      "desc": "Very long bla bla text in English."
+    },
+    "subTest-4": {
+      "name": "Bla Bla in English",
+      "desc": "Very long bla bla text in English."
+    },
+    "subTest-5": {
+      "name": "Bla Bla in English",
+      "desc": "Very long bla bla text in English."
+    },
+    "subTest-6": {
+      "name": "Bla Bla in English",
+      "desc": "Very long bla bla text in English."
+    }
+  },
 
-    "footerFooter": "Of course this site made by",
-    "footerFooter2": ""
-
+  "common": {
+    "testGPT": {
+      "title": "English",
+      "list": [
+        {
+          "title": "Title 1",
+          "subtitle": "Sub Title 1"
+        },
+        {
+          "title": "Title 2",
+          "subtitle": "Sub Title 2"
+        }
+      ]
+    }
+  }
 }
